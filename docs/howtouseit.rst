@@ -25,7 +25,7 @@ that contains the raw government database to your Django project's ``settings.py
 
 Make sure you have MySQL installed. If you don't, now is the time to hit Google and figure out how. If
 you're using Apple's OSX operating system, you can `install via 
-Homebrew <http://benjsicam.me/blog/how-to-install-mysql-on-mac-os-x-using-homebrew-tutorial/>`_.
+Homebrew <http://thisdotlife.com/2013/05/30/how-to-install-mysql-on-mac-os-x-using-homebrew-tutorial/>`_.
 Then create a new database named ``calaccess``.
 
 .. code-block:: bash
