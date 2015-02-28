@@ -2,7 +2,7 @@ How to contribute
 =================
 
 This walkthrough will show you how to install the source code of this application
-to fix bugs and develop new features.
+to fix bugs and develop new features. Use `Python 2.7 <https://www.python.org/downloads/>`_.
 
 First create a new virtualenv.
 
